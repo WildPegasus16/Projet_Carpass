@@ -1,0 +1,106 @@
+body {
+    background-color: #FCFCFC;
+}
+
+.login{
+    background: #989494;
+    width: 30%;
+    margin: 10% auto 5% auto;
+    position: relative;
+    border-radius: 10px;
+}
+
+.login h1 {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+.login form {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.login label {
+    font-family: 'Lato', sans-serif;
+    padding-bottom: 3px;
+}
+
+input[type="text"] {
+    padding: 2%;
+    width: 80%;
+    margin-bottom: 5%;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type="email"] {
+    padding: 2%;
+    width: 80%;
+    margin-bottom: 5%;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type="password"] {
+    padding: 2%;
+    width: 80%;
+    margin-bottom: 5%;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type="submit"]{
+    padding: 2%;
+    width: 80%;
+    margin-bottom: 5%;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition-duration: 0.5s;
+}
+
+input[type="submit"]:hover {
+    background: #dc2828;
+    color: black;
+}
+
+.options {
+    font-family: 'Radio Canada', sans-serif;
+}
+
+.options ul {
+    list-style-type: none;
+    padding-left: 0;
+    padding-bottom: 1%;
+}
+
+.options a {
+    text-decoration-line: none;
+    color: white;
+}
+
+.infos{
+    background: #989494;
+    width: 30%;
+    margin: 10% auto 5% auto;
+    position: relative;
+    border-radius: 10px;
+}
+
+.infos h1 {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+.infos form {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.infos label {
+    font-family: 'Lato', sans-serif;
+    padding-bottom: 3px;
+}
